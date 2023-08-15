@@ -1,1 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/2ft7a9u4wpswcu5e?svg=true)](https://ci.appveyor.com/project/dipribytkova/postmanecho)
+[![Build status](https://ci.appveyor.com/api/projects/status/tnv4pedgak7vn7fu?svg=true)](https://ci.appveyor.com/project/dipribytkova/postmanecho-qca4f)
+
